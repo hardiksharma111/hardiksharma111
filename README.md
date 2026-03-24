@@ -25,4 +25,3 @@ lyra = PersonalAI(
 
 ---
 
-**Follow the build:** [x.com/HardikShar22753](https://x.com/HardikShar22753)
