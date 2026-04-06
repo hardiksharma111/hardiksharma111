@@ -13,7 +13,7 @@
 
 ### Student · Builder · Building in public
 
-[![Twitter](https://img.shields.io/badge/x.com/HardikShar22753-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HardikShar22753)
+[![LinkedIn](https://img.shields.io/badge/Hardik%20Sharma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-sharma-49331b398/)
 [![GitHub](https://img.shields.io/badge/hardiksharma111-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hardiksharma111)
 
 </div>
@@ -90,9 +90,9 @@ Not an assistant. A second brain.
 
 <div align="center">
 
-*Building in public — follow the journey*
+*Building in public — let's connect*
 
-[![Follow on X](https://img.shields.io/badge/Follow%20%40HardikShar22753-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HardikShar22753)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hardik-sharma-49331b398/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:aa44ff,50:00aaff,100:00ff88&height=80&section=footer" width="100%"/>
 
