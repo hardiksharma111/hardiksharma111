@@ -38,7 +38,7 @@ Student who figures out problems through code. I believe the best tools are the 
 lyra = PersonalAI(
     memory  = "permanent, cross-session",
     runs_on = "your Android phone",
-    privacy = "100% local, zero cloud",
+    privacy = "100% local or cloud encrypted",
     brain   = "Groq LLaMA 70B + LoRA",
     learns  = "the longer you use it"
 )
@@ -56,8 +56,8 @@ Not an assistant. A second brain.
 ✅ Mood + sarcasm detection
 ✅ Gmail · Spotify · Classroom
 ✅ Screen reading (MediaProjection)
-✅ Self-benchmarking (GSM8K 95%)
-🔄 Voice input (VAD + Whisper)
+✅ Self-benchmarking 
+✅ Voice input (VAD + Whisper)
 🔄 ADB app automation
 ⏳ Custom RAG architecture
 ⏳ LoRA + RLAIF + DPO training
