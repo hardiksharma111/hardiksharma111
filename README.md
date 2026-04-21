@@ -31,7 +31,7 @@ While many treat AI as a "black box," I find the inner workings of models—from
 ## 🛠️ Ongoing Projects
 Active builds and long-term research focusing on personal projects.
 
-* **[Lyra]([your-lyra-repo-link](https://github.com/hardiksharma111/Lyra))** – *A second brain, not an assistant.* Cross-session memory agent running locally on Android, leveraging Groq LLaMA 70B + LoRA. (Stack: Python, Flutter, Kotlin, Termux)
+* **[Lyra](https://github.com/hardiksharma111/Lyra)** – *A second brain, not an assistant.* Cross-session memory agent running locally on Android, leveraging Groq LLaMA 70B + LoRA. (Stack: Python, Flutter, Kotlin, Termux)
 * **[Creater Guru](https://github.com/hardiksharma111/CreatorGuru)** – Automated content research and synthesis agent using customized RAG pipelines and trend analysis.
 
 ---
