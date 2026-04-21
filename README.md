@@ -28,48 +28,20 @@ While many treat AI as a "black box," I find the inner workings of models—from
 
 ---
 
-### What I'm building
+## 🛠️ Ongoing Projects
+Active builds and long-term research focusing on personal projects.
 
-<table>
-<tr>
-<td width="58%">
+* **[Lyra]([your-lyra-repo-link](https://github.com/hardiksharma111/Lyra))** – *A second brain, not an assistant.* Cross-session memory agent running locally on Android, leveraging Groq LLaMA 70B + LoRA. (Stack: Python, Flutter, Kotlin, Termux)
+* **[Creater Guru](https://github.com/hardiksharma111/CreatorGuru)** – Automated content research and synthesis agent using customized RAG pipelines and trend analysis.
 
-**[Lyra](https://github.com/hardiksharma111/Lyra)** — Personal AI Agent
+---
 
-```python
-lyra = PersonalAI(
-    memory  = "permanent, cross-session",
-    runs_on = "your Android phone",
-    privacy = "100% local or cloud encrypted",
-    brain   = "Groq LLaMA 70B + LoRA",
-    learns  = "the longer you use it"
-)
-```
+## 🏆 Hackathons Projects
+Intensive sprint builds
 
-Not an assistant. A second brain.
+* 🚆 **[VibeHack](https://github.com/hardiksharma111/VibeHack)**
+* 🤖 **[Business Workflow Automation](https://github.com/hardiksharma111/Business-WorkFlow-Automation)**
 
-</td>
-<td width="42%">
-
-**Phase 8 of 13 — Active build:**
-
-```
-✅ Persistent memory engine
-✅ Mood + sarcasm detection
-✅ Gmail · Spotify · Classroom
-✅ Screen reading (MediaProjection)
-✅ Self-benchmarking 
-✅ Voice input (VAD + Whisper)
-🔄 ADB app automation
-⏳ Custom RAG architecture
-⏳ LoRA + RLAIF + DPO training
-```
-
-</td>
-</tr>
-</table>
-
-**Stack:** `Python` `Flutter` `Kotlin` `Groq API` `Android` `Termux`
 
 ---
 
