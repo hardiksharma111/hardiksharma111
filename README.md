@@ -40,6 +40,7 @@ Active builds and long-term research focusing on personal projects.
 Intensive sprint builds
 
 * 🚆 **[VibeHack](https://github.com/hardiksharma111/VibeHack)**
+Website: https://vibe-hack-9c7jvsu21-hardiksharma111s-projects.vercel.app
 * 🤖 **[Business Workflow Automation](https://github.com/hardiksharma111/Business-WorkFlow-Automation)**
 
 
