@@ -22,7 +22,9 @@
 
 ### Who I am
 
-Student who figures out problems through code. I believe the best tools are the ones you build yourself. Currently proving that by building **Lyra** — a personal AI that runs entirely on your Android phone, knows everything about you, and never sends your data anywhere.
+I’m a student and developer focused on AI & Machine Learning, driven by the belief that the most effective tools are the ones we build from the ground up.
+
+While many treat AI as a "black box," I find the inner workings of models—from search algorithms to reinforcement learning—to be the most intriguing part of the field. I’m committed to peeling back those layers through code, always eager to learn new architectures and grow as a researcher. Whether I'm optimizing mobile experiences with Flutter or building autonomous agents, my goal is to create tech that is as transparent as it is powerful.
 
 ---
 
